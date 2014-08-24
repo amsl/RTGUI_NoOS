@@ -1,0 +1,17 @@
+*~
+*.swp
+*.bak
+*.obj
+*.pyc
+*.exe
+*.manifest
+*.ncb
+*.user
+*.pdb
+*.idb
+*.TMP
+
+.sconsign.dblite
+build/
+executables/
+Debug/
